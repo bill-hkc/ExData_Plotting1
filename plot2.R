@@ -24,9 +24,9 @@ Sys.setlocale("LC_TIME","C")
 # in POSIXct format in a new column DateTime
 dt2[, DateTime := as.POSIXct(paste(Date,Time),format="%d/%m/%Y %H:%M:%S")]
 
-# open png file, with transparent background
+# open png file, with white background
 png(output.file, width = 480, height = 480, units = "px",
-    bg='transparent')
+    bg='white')
 # plot line
 with(dt2, plot(x=DateTime,y=Global_active_power,type="l",
                main="", xlab = "",

@@ -52,9 +52,9 @@ f.subplot <- function(columns) {
 }
 
 
-# open png file, with transparent background
+# open png file, with white background
 png(output.file, width = 480, height = 480, units = "px",
-    bg='transparent')
+    bg='white')
 
 # set 2 x 2 subplots
 par(mfcol=c(2,2))

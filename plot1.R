@@ -17,9 +17,9 @@ dt2 <- dt1[Date == "1/2/2007" | Date == "2/2/2007"]
 # convert to numeric
 dt2[,Global_active_power := as.numeric(Global_active_power)]
 
-# open png file, with transparent background
+# open png file, with white background
 png(output.file, width = 480, height = 480, units = "px",
-    bg='transparent')
+    bg='white')
 # plot histogram
 with(dt2, hist(Global_active_power, breaks=12, col="red", 
                main="Global Active Power",
