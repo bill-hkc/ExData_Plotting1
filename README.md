@@ -90,25 +90,32 @@ date. There should be four PNG files and four R code files.
 
 
 The four plots that you will need to construct are shown below. 
-
+My own plots are put next to the corresponding reference plots, for easier comparison.  Note that the size of reference plots is 504x504, while the size of my own plots is 480x480.  Thus my own plots look a little smaller.
 
 ### Plot 1
 
-
+#### reference plot
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
-
+#### my own plot
+![plot1 of my own](plot1.png)
 
 ### Plot 2
 
+#### reference plot
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
-
+#### my own plot
+![plot2 of my own](plot2.png)
 
 ### Plot 3
 
+#### reference plot
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
-
+#### my own plot
+![plot3 of my own](plot3.png)
 
 ### Plot 4
 
+#### reference plot
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
+#### my own plot
+![plot4 of my own](plot4.png)
