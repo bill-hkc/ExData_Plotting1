@@ -94,21 +94,28 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 1
 
-
+#### reference plot
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
-
+#### my own plot
+![plot1 of my own](plot1.png)
 
 ### Plot 2
 
+#### reference plot
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
-
+#### my own plot
+![plot2 of my own](plot2.png)
 
 ### Plot 3
 
+#### reference plot
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
-
+#### my own plot
+![plot3 of my own](plot3.png)
 
 ### Plot 4
 
+#### reference plot
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
+#### my own plot
+![plot4 of my own](plot4.png)
