@@ -90,7 +90,7 @@ date. There should be four PNG files and four R code files.
 
 
 The four plots that you will need to construct are shown below. 
-
+My own plots are put next to the corresponding reference plots, for easier comparison.  Note that the size of reference plots is 504x504, while the size of my own plots is 480x480.  Thus my own plots look a little smaller.
 
 ### Plot 1
 
